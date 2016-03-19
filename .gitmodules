@@ -1,3 +1,3 @@
-[submodule "struct"]
-	path = struct
+[submodule "libs/struct"]
+	path = libs/struct
 	url = https://github.com/svperbeast/struct.git
